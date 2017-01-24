@@ -1,0 +1,20 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header {
+	text-align: center;
+}
+
+#title {
+	display: inline;
+}
+
+.navCls {
+	float: right;
+}
+
+.displaycname {
+	font-size: 20px;
+}
